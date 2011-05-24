@@ -2,16 +2,15 @@
 <feature
       id="ZKCDTFeature"
       label="ZKCDTFeature"
-      version="0.8.0">
+      version="0.9.0">
 
-   <description url="http://www.example.com/description">
-      ZK Component Developing Tool
+   <description url="http://code.google.com/a/eclipselabs.org/p/zk-cdt/">
+      ZK Component Developing Tool , 
+Created by Tony Wang (TonyQ).
    </description>
 
    <copyright url="http://www.example.com/copyright">
-      ZK Component Developing Tool.
-
-LGPL
+      ZK Component Developing Tool , LGPL
    </copyright>
 
    <license url="http://www.example.com/license">
